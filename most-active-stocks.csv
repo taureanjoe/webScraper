@@ -1,0 +1,101 @@
+Stock ticker,Stock name,Last price of stock,Stock change,Stock percentage change,Volume
+TSLA,Tesla Inc.,123.22,+4.37,+3.68%,183.292M
+AMZN,Amazon.com Inc.,95.09,+5.22,+5.81%,103.126M
+AAPL,Apple Inc.,133.49,+2.76,+2.11%,69.459M
+AMC,AMC Entertainment Holdings Inc.,4.92,+0.8600,+21.18%,51.501M
+F,Ford Motor Company,13.22,+0.38,+2.96%,51.84M
+BBD,Banco Bradesco S.A.,2.96,+0.0600,+2.07%,45.948M
+LCID,Lucid Group Inc.,7.93,+0.74,+10.29%,44.543M
+AMD,Advanced Micro Devices Inc.,69.06,+1.01,+1.48%,44.47M
+NIO,NIO Inc.,11.51,+0.27,+2.40%,42.185M
+SOFI,SoFi Technologies Inc.,5.15,+0.03,+0.59%,41.602M
+BAC,Bank of America Corporation,34.38,+0.26,+0.76%,36.5M
+APE,AMC Entertainment Holdings Inc.,1.42,+0.0300,+2.16%,36.572M
+CCL,Carnival Corporation & plc,9.86,+0.18,+1.86%,33.223M
+RIVN,Rivian Automotive Inc.,17.08,+0.63,+3.83%,33.267M
+ABEV,Ambev S.A.,2.72,-0.0400,-1.45%,31.702M
+NVDA,NVIDIA Corporation,160.01,+0.92,+0.58%,35.266M
+LU,Lufax Holding Ltd,2.69,+0.2200,+8.91%,31.178M
+RIG,Transocean Ltd.,5.42,+0.03,+0.56%,30.458M
+INTC,Intel Corporation,29.85,+0.41,+1.39%,30.375M
+T,AT&T Inc.,19.41,-0.06,-0.31%,29.502M
+MSFT,Microsoft Corporation,235.77,+6.92,+3.02%,28.669M
+AAL,American Airlines Group Inc.,15.34,+0.15,+0.99%,28.664M
+NU,Nu Holdings Ltd.,3.72,+0.0600,+1.64%,28.361M
+DNA,Ginkgo Bioworks Holdings Inc.,1.7,+0.1600,+10.39%,27.472M
+WBD,Warner Bros. Discovery Inc.,12.6,+0.04,+0.32%,30.814M
+ITUB,Itaú Unibanco Holding S.A.,5.07,+0.10,+2.01%,27.231M
+GOOGL,Alphabet Inc.,91.52,+3.10,+3.51%,26.862M
+GOOG,Alphabet Inc.,92.26,+3.02,+3.38%,25.999M
+PLTR,Palantir Technologies Inc.,6.98,+0.28,+4.18%,25.663M
+META,Meta Platforms Inc.,132.89,-0.10,-0.08%,25.423M
+SNAP,Snap Inc.,9.66,+0.24,+2.55%,23.373M
+AFRM,Affirm Holdings Inc.,11.32,+1.26,+12.52%,23.288M
+PFE,Pfizer Inc.,47.45,-0.17,-0.36%,22.74M
+BABA,Alibaba Group Holding Limited,115.02,+0.14,+0.12%,22.667M
+XPEV,XPeng Inc.,10.01,-0.08,-0.79%,22.174M
+PBR,Petróleo Brasileiro S.A. - Petrobras,10.61,+0.16,+1.53%,21.792M
+VALE,Vale S.A.,17.9,-0.06,-0.33%,21.754M
+PLUG,Plug Power Inc.,16.21,+1.26,+8.43%,21.78M
+LUMN,Lumen Technologies Inc.,5.82,+0.22,+3.93%,21.075M
+GGB,Gerdau S.A.,6.27,+0.13,+2.12%,21.39M
+VZ,Verizon Communications Inc.,41.18,-0.77,-1.84%,20.559M
+LYFT,Lyft Inc.,13.84,+0.53,+3.98%,20.207M
+SHOP,Shopify Inc.,36.44,-0.06,-0.16%,19.82M
+DIDIY,DiDi Global Inc.,4.7,+0.1900,+4.21%,19.089M
+FCX,Freeport-McMoRan Inc.,45.32,+0.61,+1.36%,18.703M
+WFC,Wells Fargo & Company,42.74,+0.38,+0.90%,18.022M
+C,Citigroup Inc.,48.71,+0.52,+1.08%,13.379M
+XOM,Exxon Mobil Corporation,111.37,+1.28,+1.16%,16.519M
+CS,Credit Suisse Group AG,3.45,+0.0500,+1.47%,16.626M
+UAL,United Airlines Holdings Inc.,47.71,+1.96,+4.28%,16.693M
+SWN,Southwestern Energy Company,5.74,+0.06,+1.06%,16.413M
+GRAB,Grab Holdings Limited,3.61,-0.1100,-2.96%,17.292M
+COIN,Coinbase Global Inc.,43.79,+0.56,+1.30%,15.982M
+UBER,Uber Technologies Inc.,28.35,+0.31,+1.11%,15.272M
+HL,Hecla Mining Company,5.82,-0.31,-5.06%,15.118M
+GM,General Motors Company,37.82,+0.71,+1.91%,15.131M
+PINS,Pinterest Inc.,27.01,+1.07,+4.12%,15.035M
+AUY,Yamana Gold Inc.,5.96,+0.02,+0.34%,13.969M
+DAL,Delta Air Lines Inc.,38.18,+0.09,+0.24%,13.87M
+SABR,Sabre Corporation,6.43,-0.51,-7.35%,14.231M
+CHPT,ChargePoint Holdings Inc.,10.89,+0.81,+8.04%,14.155M
+IQ,iQIYI Inc.,6.42,+0.39,+6.47%,13.808M
+GOLD,Barrick Gold Corporation,19.22,-0.17,-0.88%,14.185M
+CRM,Salesforce Inc.,144.9,-2.54,-1.72%,12.522M
+NCLH,Norwegian Cruise Line Holdings Ltd.,14.58,+0.44,+3.11%,13.371M
+NOK,Nokia Oyj,4.94,+0.0700,+1.44%,13.599M
+FRO,Frontline plc,13.13,-1.11,-7.79%,13.322M
+CMCSA,Comcast Corporation,37.95,+0.07,+0.18%,13.347M
+HPE,Hewlett Packard Enterprise Company,16.91,-0.15,-0.88%,15.089M
+KMI,Kinder Morgan Inc.,18.78,+0.04,+0.21%,11.106M
+PCG,PG&E Corporation,15.76,-0.18,-1.13%,12.929M
+PTON,Peloton Interactive Inc.,10.82,+1.02,+10.41%,13.107M
+KGC,Kinross Gold Corporation,4.56,-0.0500,-1.08%,8.487M
+FTCH,Farfetch Limited,5.35,+0.20,+3.88%,12.571M
+RBLX,Roblox Corporation,32.9,+0.89,+2.78%,12.588M
+M,Macy's Inc.,22.22,+1.36,+6.52%,12.529M
+CX,CEMEX S.A.B. de C.V.,4.94,+0.4300,+9.53%,12.433M
+CSCO,Cisco Systems Inc.,49.21,+0.40,+0.82%,12.531M
+PPL,PPL Corporation,30.8,+0.63,+2.09%,12.291M
+PBR-A,Petróleo Brasileiro S.A. - Petrobras,9.38,+0.14,+1.52%,11.867M
+VTRS,Viatris Inc.,11.77,-0.07,-0.59%,13.212M
+MU,Micron Technology Inc.,58.06,+0.85,+1.49%,12.143M
+DKNG,DraftKings Inc.,13.07,+0.36,+2.83%,11.935M
+CTRA,Coterra Energy Inc.,24.69,-0.39,-1.56%,12.74M
+BSX,Boston Scientific Corporation,45.81,-0.25,-0.54%,11.133M
+TSM,Taiwan Semiconductor Manufacturing Company Limited,81.78,+0.51,+0.63%,11.678M
+TME,Tencent Music Entertainment Group,8.49,-0.25,-2.86%,11.092M
+HBAN,Huntington Bancshares Incorporated,14.57,+0.10,+0.69%,11.206M
+PARA,Paramount Global,20.0,+0.11,+0.55%,11.009M
+CSX,CSX Corporation,32.45,+0.05,+0.15%,10.988M
+KO,The Coca-Cola Company,62.01,-0.12,-0.19%,10.758M
+QS,QuantumScape Corporation,7.21,+0.55,+8.26%,10.708M
+EURN,Euronav NV,13.31,-0.19,-1.41%,10.708M
+TEVA,Teva Pharmaceutical Industries Limited,11.15,+0.16,+1.46%,10.508M
+BTG,B2Gold Corp.,3.92,0.0000,0.00%,10.344M
+SCHW,The Charles Schwab Corporation,83.42,-2.20,-2.57%,10.135M
+CVS,CVS Health Corporation,89.75,-0.90,-0.99%,9.988M
+GE,General Electric Company,77.69,+2.42,+3.22%,10.075M
+TFC,Truist Financial Corporation,46.37,+0.37,+0.80%,10.041M
+MPW,Medical Properties Trust Inc.,12.92,+0.43,+3.44%,9.966M
